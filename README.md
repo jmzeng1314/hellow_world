@@ -19,6 +19,7 @@
 ##3.更新项目（没新加文件，只有删除或者修改文件）：
 
 * $cd ~/hello-world
+* 我做了测试，好像这里还是需要 git add .才行
 * $git commit -a          //记录删除或修改了哪些文件
 * $git push origin master  //提交到github
 
@@ -59,3 +60,8 @@
 
 //------------------------------------------------------------------------------
 
+    装逼请看这个：http://www.oschina.net/question/1397765_166368
+    安装git工具看这个：http://www.ihref.com/read-16377.html
+    上传自己的代码看这个：http://blog.csdn.net/hanhailong726188/article/details/46738929
+    一些开发过程的注意事项：http://blog.csdn.net/u011068702/article/details/49531167
+    简介完整教程：http://caibaojian.com/use-github.html
